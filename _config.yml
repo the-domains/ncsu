@@ -1,0 +1,14 @@
+layout_spectrum: 0.216952
+color:
+  saturation: 0.9
+  brandStrength: 0.07600779
+  lightness: 0.7787234
+  rhythmicContrast: 0.3851064
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.2867137
+name: ncsu
